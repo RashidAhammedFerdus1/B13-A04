@@ -148,7 +148,7 @@ function renderInterview() {
   if (interViews.length === 0) {
     allFilterSection.innerHTML = `
       <div class="bg-white p-5  rounded-lg shadow-md space-y-3 mt-10 card">
-      <img class="mx-auto" src="./jobs.png" alt="">
+      <img class="mx-auto" src="./Resource/file.png" alt="">
       <h2 class="text-center text-3xl font-bold text-gray-800">No jobs available</h2>
       <p class="text-center text-xl text-gray-600">Check back soon for new job opportunities</p>
     </div>
@@ -168,7 +168,7 @@ function renderRejected() {
   if (rejected.length === 0) {
     allFilterSection.innerHTML = `
     <div class="bg-white p-5  rounded-lg shadow-md space-y-3 mt-10 card">
-      <img class="mx-auto" src="./jobs.png" alt="">
+      <img class="mx-auto" src="./Resource/file.png" alt="">
       <h2 class="text-center text-3xl font-bold text-gray-800">No jobs available</h2>
       <p class="text-center text-xl text-gray-600">Check back soon for new job opportunities</p>
     </div>
