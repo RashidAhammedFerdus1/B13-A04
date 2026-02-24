@@ -1,0 +1,13 @@
+* {
+    font-family: "Geist", sans-serif;
+}
+
+.btn-interview:hover {
+    background-color: green;
+    color: white;
+}
+
+.btn-rejected:hover {
+    background-color: brown;
+    color: white;
+}
