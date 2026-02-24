@@ -191,7 +191,7 @@ function createCardHTML(data) {
             <p class="jobTitle text-gray-600">${data.jobtitle}</p>
         </div>
         <div>
-            <img class="btn-delete cursor-pointer" src="./Group 1 (2).png" alt="Delete">
+            <img class="btn-delete" src="./Resource/deletebtn.png" alt="">
         </div>
     </div>
     <p class=" jobmean text-gray-600">${data.time}</p>
